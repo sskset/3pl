@@ -1,0 +1,17 @@
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.csprojAssemblyReference.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.csproj.CoreCompileInputs.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.AssemblyInfoInputs.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.AssemblyInfo.cs
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.deps.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.runtimeconfig.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.runtimeconfig.dev.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.pdb
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.pdb
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.csproj.CopyComplete
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI_Tests\obj\Debug\netcoreapp2.2\GroupTestStudentAPI_Tests.pdb

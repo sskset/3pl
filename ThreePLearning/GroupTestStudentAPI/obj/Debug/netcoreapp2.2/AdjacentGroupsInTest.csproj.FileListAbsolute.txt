@@ -1,0 +1,14 @@
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\bin\Debug\netcoreapp2.2\AdjacentGroupsInTest.deps.json
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\bin\Debug\netcoreapp2.2\AdjacentGroupsInTest.runtimeconfig.json
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\bin\Debug\netcoreapp2.2\AdjacentGroupsInTest.runtimeconfig.dev.json
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\bin\Debug\netcoreapp2.2\AdjacentGroupsInTest.dll
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\bin\Debug\netcoreapp2.2\AdjacentGroupsInTest.pdb
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.csprojAssemblyReference.cache
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.csproj.CoreCompileInputs.cache
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.RazorAssemblyInfo.cache
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.RazorAssemblyInfo.cs
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.AssemblyInfoInputs.cache
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.AssemblyInfo.cs
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.RazorTargetAssemblyInfo.cache
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.dll
+X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\AdjacentGroupsInTest.pdb

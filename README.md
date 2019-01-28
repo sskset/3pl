@@ -23,7 +23,7 @@ Students grouped by curly brackets
 
 1.  Run \*.sln with Visual Studio 2017
 2.  Start GroupTestStudentAPI project
-3.  Use Postman to create a POST request
+3.  Use Postman to create a POST request with following body (raw string) to http://localhost:5010/api/GroupTestStudent
     > {
         {'','',’Simon’,'',''},
         {'',’Sergey', '','Thomas',''},

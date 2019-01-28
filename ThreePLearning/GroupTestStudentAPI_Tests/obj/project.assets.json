@@ -1673,6 +1673,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GroupTestStudentAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/GroupTestStudentAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroupTestStudentAPI.dll": {}
+        }
       }
     }
   },
@@ -5830,13 +5840,18 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GroupTestStudentAPI/1.0.0": {
+      "type": "project",
+      "path": "../GroupTestStudentAPI/GroupTestStudentAPI.csproj",
+      "msbuildProject": "../GroupTestStudentAPI/GroupTestStudentAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "GroupTestStudentAPI >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "X:\\3pl\\ThreePLearning\\AdjacentGroupsInTest\\GroupTestStudentAPI.csproj",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -5871,8 +5886,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "X:\\3pl\\ThreePLearning\\AdjacentGroupsInTest\\GroupTestStudentAPI.csproj": {
-              "projectPath": "X:\\3pl\\ThreePLearning\\AdjacentGroupsInTest\\GroupTestStudentAPI.csproj"
+            "X:\\3pl\\ThreePLearning\\GroupTestStudentAPI\\GroupTestStudentAPI.csproj": {
+              "projectPath": "X:\\3pl\\ThreePLearning\\GroupTestStudentAPI\\GroupTestStudentAPI.csproj"
             }
           }
         }
@@ -5912,16 +5927,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'X:\\3pl\\ThreePLearning\\AdjacentGroupsInTest\\GroupTestStudentAPI.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "X:\\3pl\\ThreePLearning\\AdjacentGroupsInTest\\GroupTestStudentAPI.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    }
-  ]
+  }
 }

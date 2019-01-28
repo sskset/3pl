@@ -12,3 +12,17 @@ X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\GroupTestStud
 X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.dll
 X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.pdb
 X:\3pl\ThreePLearning\AdjacentGroupsInTest\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.csprojAssemblyReference.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.deps.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.runtimeconfig.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.runtimeconfig.dev.json
+X:\3pl\ThreePLearning\GroupTestStudentAPI\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI\bin\Debug\netcoreapp2.2\GroupTestStudentAPI.pdb
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.csprojAssemblyReference.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.csproj.CoreCompileInputs.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.RazorAssemblyInfo.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.RazorAssemblyInfo.cs
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.AssemblyInfoInputs.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.AssemblyInfo.cs
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.RazorTargetAssemblyInfo.cache
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.dll
+X:\3pl\ThreePLearning\GroupTestStudentAPI\obj\Debug\netcoreapp2.2\GroupTestStudentAPI.pdb
